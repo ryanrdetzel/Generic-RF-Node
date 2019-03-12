@@ -1,0 +1,3 @@
+/Users/rdetzel/Desktop/sparks/build/CMakeFiles/rebuild_cache.dir
+/Users/rdetzel/Desktop/sparks/build/CMakeFiles/edit_cache.dir
+/Users/rdetzel/Desktop/sparks/build/CMakeFiles/main.dir

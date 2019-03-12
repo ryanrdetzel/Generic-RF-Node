@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rdetzel/Desktop/sparks/main.cpp
+iostream
+-
+typeinfo
+-
+bitset
+-
+node.h
+/Users/rdetzel/Desktop/sparks/node.h
+sensor.h
+/Users/rdetzel/Desktop/sparks/sensor.h
+sensor_int.h
+/Users/rdetzel/Desktop/sparks/sensor_int.h
+sensor_ping.h
+/Users/rdetzel/Desktop/sparks/sensor_ping.h
+
+/Users/rdetzel/Desktop/sparks/node.h
+sensor.h
+/Users/rdetzel/Desktop/sparks/sensor.h
+
+/Users/rdetzel/Desktop/sparks/sensor.h
+
+/Users/rdetzel/Desktop/sparks/sensor_int.h
+sensor.h
+/Users/rdetzel/Desktop/sparks/sensor.h
+
+/Users/rdetzel/Desktop/sparks/sensor_ping.h
+sensor.h
+/Users/rdetzel/Desktop/sparks/sensor.h
+
